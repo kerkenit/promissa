@@ -2,7 +2,7 @@
 
 Pro Missa is rooster voor de Rooms Katholieke Kerk. Meer informatie is te lezen op onze [website](https://www.promissa.nl).
 
-Via deze plek kunt u de problemen of functie verzoeken indienen. Ga daarvoor naar de [Issues](https://github.com/kerkenit/promissa/issues) en vermeld duidelijk het probleem of welke functie u graag zou willen zien.
+Via deze plek kunt u de problemen of functie verzoeken indienen. Maak daarvoor een [nieuw Issues](https://github.com/kerkenit/promissa/issues/new/choose) aan en vermeld duidelijk het probleem of welke functie u graag zou willen zien.
 
 ![Website versie](https://img.shields.io/badge/dynamic/json.svg?url=https://www.promissa.nl/package.json&query=$.version&label=Pro%20Missa&color=30b6a2&labelColor=477cbd)
 ![Portal versie](https://img.shields.io/badge/dynamic/json.svg?url=https://portal.promissa.nl/package.json&query=$.version&label=Pro%20Missa&color=30b6a2&labelColor=477cbd)
