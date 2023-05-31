@@ -1,8 +1,8 @@
 ---
 name: Functieverzoek
 about: Stel een idee voor dit project voor
-title: ''
-labels: ''
+title: "[ENHANCEMENT]"
+labels: enhancement
 assignees: kerkenit
 
 ---

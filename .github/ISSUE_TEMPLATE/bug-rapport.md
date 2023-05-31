@@ -1,8 +1,8 @@
 ---
 name: Bug rapport
 about: Maak een rapport om ons te helpen verbeteren
-title: ''
-labels: ''
+title: "[BUG]"
+labels: bug
 assignees: kerkenit
 
 ---
